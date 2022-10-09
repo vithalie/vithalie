@@ -3,10 +3,10 @@ Hi there! I am a Senior Software Engineer with 4+ years of experience in refinin
 My current tech stack is as follows:
 
 ★ Front-End Technology Stack ★
-🔷 Fluent UI, Material UI, Bootstrap
-🔷 HTML5, CSS, SCSS
 🔷 JavaScript, TypeScript
 🔷 React JS, React Hooks, JSX, PnP JS, Angular
+🔷 HTML5, CSS, SCSS
+🔷 Fluent UI, Material UI, Bootstrap
 🔷 SharePoint Framework (SPFx)
 
 ★ Back-End Technology Stack ★
@@ -19,11 +19,9 @@ My current tech stack is as follows:
 🔷 Command-line Shell/Task Automation Solution: PowerShell, SharePoint Management Shell
 🔷 Data Transformation: Microsoft Excel, Power Query
 🔷 Dev Environment: Visual Studio, Visual Studio Code
-🔷 Google Workspace
 🔷 Infrastructure: Azure
 🔷 Microsoft O365, Admin Center, Microsoft Exchange
 🔷 Microsoft SharePoint automation, workflows, data import and export
-🔷 Presentation: Microsoft PowerPoint, Canva
 🔷 Reporting/Visualization: Power BI, SQL Server Reporting Services
 🔷 SQL Server
 
